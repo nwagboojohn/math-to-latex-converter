@@ -22,7 +22,7 @@ cd Math-to-LaTeX Converter
 git clone [https://github.com/Nemejohn/math-to-latex-converter](https://github.com/Nemejohn/math-to-latex-converter)
 
 ```bash
-cd math-to-latex code rotation
+cd math-to-latex
 ```
 
 ## Usage
@@ -47,6 +47,7 @@ Open your browser and navigate to `http://localhost:8501`
 ## Contributing
 
 Contributions are welcome. Please submit pull requests or open issues for bugs and feature requests.
+
 
 
 
