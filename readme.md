@@ -1,4 +1,4 @@
-# Math-to-LaTeX Converter
+# Math-to-LaTeX Converter 
 
 A Python projects that converts raw English language into LaTeX format.
 
@@ -47,4 +47,5 @@ Open your browser and navigate to `http://localhost:8501`
 ## Contributing
 
 Contributions are welcome. Please submit pull requests or open issues for bugs and feature requests.
+
 
